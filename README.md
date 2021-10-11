@@ -1,7 +1,7 @@
 # BindGo
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/ggdream/bindgo/doc/logo.jpg" alt="😭" />
+    <img src="https://raw.githubusercontent.com/ggdream/bindgo/main/doc/logo.png" alt="😭" />
 </div>
 
 <div align="center">
