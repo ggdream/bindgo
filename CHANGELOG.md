@@ -1,3 +1,8 @@
+## 0.1.3
+
+- Delete cmake `Runtime` field
+- Remove `example` folder
+
 ## 0.1.2
 
 - Modify the cmake config

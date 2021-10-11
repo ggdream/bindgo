@@ -1,6 +1,6 @@
 name: bindgo
 description: Use Dart to call Shell, complete the work of compiling Golang CGO code into a so, dll, a, WASM, and etc. And place it in the corresponding source file directory of each Flutter platform.
-version: 0.1.2
+version: 0.1.3
 homepage: https://github.com/ggdream/bindgo
 
 environment:

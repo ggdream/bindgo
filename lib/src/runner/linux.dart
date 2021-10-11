@@ -38,7 +38,7 @@ class LinuxRunner extends Runner implements Compile {
     final file = File(filepath);
 
     final data =
-        '''\ninstall(FILES \${PROJECT_SOURCE_DIR}/lib$name.${getSuffix(PlatformType.windows)} RUNTIME DESTINATION "\${CMAKE_INSTALL_PREFIX}"
+        '''\ninstall(FILES \${PROJECT_SOURCE_DIR}/lib$name.${getSuffix(PlatformType.windows)} DESTINATION "\${CMAKE_INSTALL_PREFIX}"
   COMPONENT Runtime)\n''';
 
     final content = await file.readAsString();
