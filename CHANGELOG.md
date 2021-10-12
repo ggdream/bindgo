@@ -1,3 +1,7 @@
+## 0.2.0
+
+- Add Loader.find fn to find dll easily
+
 ## 0.1.3
 
 - Delete cmake `Runtime` field

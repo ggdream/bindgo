@@ -7,6 +7,8 @@ import 'package:yaml/yaml.dart';
 import 'package:bindgo/src/runner/runner.dart';
 import 'package:bindgo/src/utils/utils.dart';
 
+export 'src/utils/load.dart';
+
 class BindGo {
   BindGo() : _parser = Parser();
 
